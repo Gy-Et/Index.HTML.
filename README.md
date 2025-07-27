@@ -1,8 +1,9 @@
-index.html<!DOCTYPE html>
+index.html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=devicje-width, initial-scale=1.0">
     <title>My GitHub Website</title>
     <style>
         body {
@@ -57,7 +58,7 @@ index.html<!DOCTYPE html>
         <ol>
             <li>Create a new repository named <code>username.github.io</code> (replace username with your GitHub username)</li>
             <li>Upload your HTML, CSS, and JavaScript files to this repository</li>
-            <li>GitHub will automatically publish your site at <code>https://username.github.io</code></li>
+            <li>GitHub will automatically publish your site at <code>https://Gy-Et.github.io</code></li>
         </ol>
         
         <h2>Resources</h2>
@@ -68,7 +69,7 @@ index.html<!DOCTYPE html>
     </div>
 
     <footer>
-        <p>&copy; 2023 My GitHub Website. All rights reserved.</p>
+        <p>&copy; 2025 My GitHub Website. All rights reserved.</p>
     </footer>
 </body>
 </html>
